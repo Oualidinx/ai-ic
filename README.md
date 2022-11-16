@@ -2,6 +2,8 @@
 
 This repository contains the lecture materials for _Applied Informatics — Internet Computing_ held at Karlsruhe Institute of Technology. The lecture is accompanied by the textbook [Internet Computing](https://internet-computing.net/).
 
+Please cite as: Sunyaev, A. (2022). _Applied Informatics — Internet Computing_. https://github.com/sunyaev/ai-ic
+
 ## Introduction
 
 In this lecture, we provide insights into fundamental concepts and future technologies of distributed systems and internet computing. The course first introduces basic concepts of distributed systems, e.g., design of architectures for distributed systems, internet architectures, web services, and middleware. In the second part of the course, emerging technologies of internet computing will be examined in depth. These include, among others: cloud computing, edge and fog computing, Internet of Things, blockchain, artificial intelligence.
