@@ -29,3 +29,7 @@ All lecture slides correspond to book chapters. We also provide exercises relate
 [![Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This work is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## Acknowledgements
+
+We would like to thank our colleagues from the [Critical Information Infrastructures research group](https://cii.aifb.kit.edu/).
