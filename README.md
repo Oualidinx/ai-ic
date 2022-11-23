@@ -16,7 +16,7 @@ All lecture slides correspond to book chapters. We also provide exercises relate
 
 | Book Chapter | Lecture | Exercise |
 | ----------- | ------- | ------------------ |
-| 1 | [Introduction](lecture/ai-ic.lecture_01_ss22.pdf) |                                                                                             | 
+| 1 | [Introduction](lecture/ai-ic.lecture_01_ss22_SHORT.pdf) |                                                                                             | 
 | 2 | [Information Systems Architecture](lecture/ai-ic.lecture_02_ss22.pdf) |             |
 | 3 | [Design of Good Information Systems Architectures](lecture/ai-ic.lecture_03_ss22.pdf)|                   |
 | 4 | [Internet Architectures](lecture/ai-ic.lecture_04_ss22.pdf) | <!--[-->Exercise Sheet 1<!--](tutorial/1/ai-ic.tutorial_01_ss22.pdf)-->        | 
