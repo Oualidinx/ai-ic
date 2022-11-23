@@ -1,10 +1,10 @@
 # Applied Informatics — Internet Computing
 
-This repository contains the lecture materials for _Applied Informatics — Internet Computing_ held at Karlsruhe Institute of Technology. The lecture is accompanied by the textbook [Internet Computing](https://internet-computing.net/).
+This repository contains the lecture materials for _Applied Informatics — Internet Computing_ held at _Karlsruhe Institute of Technology_ in the _Institute of Applied Informatics and Formal Description Methods (AIFB)_. The lecture is accompanied by the textbook [Internet Computing](https://internet-computing.net/).
 
 Please cite as: Sunyaev, A. (2022). _Applied Informatics — Internet Computing_. https://github.com/sunyaev/ai-ic
 
-**Note:** This repository is currently still a work in progress and will be completed in the coming weeks and months.
+**NOTE:** This repository is currently still a work in progress and will be completed in the coming weeks and months.
 
 ## Introduction
 
@@ -36,6 +36,6 @@ This work is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 Interna
 
 ## Acknowledgements
 
-We would like to thank the previous professors at our institute who have been involved in the design and development of the lecture over the years. These are Prof. Dr. Hartmut Schmeck (2006–2007); Dr. Matthias Bonn, Prof. Dr.-Ing. Stefan Tai, and Dr. Lukas König (2008); Prof. Dr.-Ing. Stefan Tai (2009–2014); Prof. Dr.-Ing. J. Marius Zöllner (2015); Prof. Dr. Ingo Scholtes (2016); and Prof. Dr. Agnes Koschmider (2017). Furthermore, we would like to thank Prof. Dr. Werner Mellis from the University of Cologne.
+We would like to thank the previous professors at AIFB who have been involved in the design and development of the lecture over the years. These are Prof. Dr. Hartmut Schmeck (2006–2007); Dr. Matthias Bonn, Prof. Dr.-Ing. Stefan Tai, and Dr. Lukas König (2008); Prof. Dr.-Ing. Stefan Tai (2009–2014); Prof. Dr.-Ing. J. Marius Zöllner (2015); Prof. Dr. Ingo Scholtes (2016); and Prof. Dr. Agnes Koschmider (2017). Furthermore, we would like to thank Prof. Dr. Werner Mellis from the University of Cologne.
 
 We would also like to thank our colleagues from the [Critical Information Infrastructures research group](https://cii.aifb.kit.edu/).
