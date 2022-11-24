@@ -36,6 +36,6 @@ This work is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 Interna
 
 ## Acknowledgements
 
-We would like to thank our fellow colleagues at AIFB who have been involved in the design and development of the lecture over the years. These are Prof. Dr. Hartmut Schmeck (2006–2007); Dr. Matthias Bonn, Prof. Dr.-Ing. Stefan Tai, and Dr. Lukas König (2008); Prof. Dr.-Ing. Stefan Tai (2009–2014); Prof. Dr.-Ing. J. Marius Zöllner (2015); Prof. Dr. Ingo Scholtes (2016); and Prof. Dr. Agnes Koschmider (2017). Furthermore, we would like to thank Prof. Dr. Werner Mellis from the University of Cologne.
+We would like to thank our fellow colleagues at AIFB who have been involved in the design and development of the lecture over the years. These are Prof. Dr. Hartmut Schmeck (2006–2007); Dr. Matthias Bonn, Prof. Dr.-Ing. Stefan Tai, and Dr. Lukas König (2008); Prof. Dr.-Ing. Stefan Tai (2009–2014); Prof. Dr.-Ing. J. Marius Zöllner (2015); Prof. Dr. Ingo Scholtes (2016); and Prof. Dr. Agnes Koschmider (2017).
 
-We would also like to thank our colleagues from the [Critical Information Infrastructures research group](https://cii.aifb.kit.edu/).
+Furthermore, we would like to thank Prof. Dr. Werner Mellis from the University of Cologne. We would also like to thank our colleagues from the [Critical Information Infrastructures research group](https://cii.aifb.kit.edu/).
